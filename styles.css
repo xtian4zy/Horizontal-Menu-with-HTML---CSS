@@ -12,6 +12,7 @@ ul{
 }
 li{    
     float: left;    
+    /* border-right:1px solid #bbb; */
 }
 li a{
     display: block;
@@ -26,3 +27,8 @@ li a{
 a:hover{
     background-color: #000;
 }
+
+
+/* li:last-child { */
+    /* border-right: none; */
+  /* } */
