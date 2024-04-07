@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+ul{
+    list-style-type: none;
+}
+li{
+    display: block;
+    float: left;
+}
+li a{
+    padding: 20px;
+    text-decoration: none;
+}
